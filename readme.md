@@ -35,3 +35,7 @@
     [x] useState
     [x] Criar uma funcao para incrementar um numero
     [x] Criar uma funcao para decrementar um numero
+
+## Aula 05 - Renderizacao Codicional
+    [x] Operador ternário
+    [x] Estrutura condicional If.
