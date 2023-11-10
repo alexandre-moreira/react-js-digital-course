@@ -23,3 +23,7 @@
         [x] npm run dev
         [x] Acessar o app através da Url:  http://localhost:5173/
 
+## Aula 02
+    [x] Criando Hello, World!
+
+
