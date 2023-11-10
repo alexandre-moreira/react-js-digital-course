@@ -1,9 +1,9 @@
-import MeuContador from "./components/MeuContador"
+import RenderizacaoCondicional from "./components/RenderizacaoCondicional";
 
 function App() {
   return (
     <div>
-      <MeuContador />
+      <RenderizacaoCondicional />
     </div>
   );
 }
