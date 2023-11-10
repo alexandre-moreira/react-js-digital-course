@@ -1,0 +1,25 @@
+# Curso ReactJs - Digital Course
+
+## Aula 01 - Introducao e configuracao de ambiente.
+    [x] Instalar IDE (VsCode)
+    [x] Instalar NodeJs
+    [x] Verificar se o NodeJs foi instalado corretamente
+        [x] Abrir o terminal no VsCode e digitar o seguinte comando.
+        [x] node -v
+
+    [x] Criar um projeto React com Vite
+        [x] npm create vite
+            [x] y
+            [x] Project name: … reactjs-basic
+            [x] Select a framework: › React
+            [x] Select a variant: › JavaScript
+
+    [x] Instalar dependecias do projeto
+        [x] Entrar na pasta do projeto criado
+        [x] cd reactjs-basic
+        [x] npm install
+
+    [x] Executar o app
+        [x] npm run dev
+        [x] Acessar o app através da Url:  http://localhost:5173/
+
