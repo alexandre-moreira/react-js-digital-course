@@ -30,3 +30,8 @@
 ## Aula 03
     [x] Criando componentes
     [x] Usando props
+
+## Aula 04 - Estados e Eventos
+    [x] useState
+    [x] Criar uma funcao para incrementar um numero
+    [x] Criar uma funcao para decrementar um numero
