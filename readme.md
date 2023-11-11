@@ -54,3 +54,7 @@
     [x] await
     [x] fetch
     [x] Api externa
+
+## Aula 09 - Estilizacao com classe e CSS Modules
+    [x] Estilizacao arquivo css.
+    [x] Estilizacao com module.css
