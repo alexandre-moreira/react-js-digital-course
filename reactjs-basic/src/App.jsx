@@ -1,10 +1,9 @@
-import MinhaLista from "./components/MinhaLista";
+import EfeitosColaterais from "./components/EfeitosColaterais";
 
 function App() {
   return (
     <div>
-      <h1>Minhas Listas</h1>
-      <MinhaLista />
+      <EfeitosColaterais />
     </div>
   );
 }
