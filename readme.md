@@ -48,3 +48,9 @@
     [x] useState
     [x] useEffect
     [x] filter
+
+## Aula 08 - Buscando dados com fetch
+    [x] async
+    [x] await
+    [x] fetch
+    [x] Api externa
