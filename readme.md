@@ -43,3 +43,8 @@
 ## Aula 06 - Listas e Chaves
     [x] Arrays
     [x] Metodo Map
+
+## Aula 07 - Efeitos colaterrais
+    [x] useState
+    [x] useEffect
+    [x] filter
