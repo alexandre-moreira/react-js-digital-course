@@ -39,3 +39,7 @@
 ## Aula 05 - Renderizacao Codicional
     [x] Operador ternário
     [x] Estrutura condicional If.
+
+## Aula 06 - Listas e Chaves
+    [x] Arrays
+    [x] Metodo Map
