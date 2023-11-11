@@ -1,9 +1,11 @@
-import EfeitosColaterais from "./components/EfeitosColaterais";
+import BuscandoDadosComFetch from "./components/BuscandoDadosComFetch";
 
 function App() {
+
+  
   return (
     <div>
-      <EfeitosColaterais />
+      <BuscandoDadosComFetch />
     </div>
   );
 }
