@@ -1,9 +1,10 @@
-import RenderizacaoCondicional from "./components/RenderizacaoCondicional";
+import MinhaLista from "./components/MinhaLista";
 
 function App() {
   return (
     <div>
-      <RenderizacaoCondicional />
+      <h1>Minhas Listas</h1>
+      <MinhaLista />
     </div>
   );
 }
